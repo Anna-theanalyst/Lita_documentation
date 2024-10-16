@@ -9,7 +9,7 @@ This Data Analysis Project aims to generate insight into the sales performance o
 The primary source of data used here is LITA%20CAPSTONE%20DATASET.xlsx and this is a document provided by the incubator hub dowloaded from canvas 
 
 ### TOOLS USED
-- Microsoft Excel for Data cleaning, Analysis and Visualisation [ DOWLOAD HERE](https;//www.microsoft.com)
+- Microsoft Excel for Data cleaning, Analysis and Visualisation [ DOWLOAD HERE](https://www.microsoft.com)
 - SQL- Structured Query Language for Querying datasets
 - GitHub for Portfolio building
 - Power-BI for transforming data, craeting visualization, create reports
