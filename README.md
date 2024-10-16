@@ -13,3 +13,23 @@ The primary source of data used here is LITA%20CAPSTONE%20DATASET.xlsx and this 
 - SQL- Structured Query Language for Querying datasets
 - GitHub for Portfolio building
 - Power-BI for transforming data, craeting visualization, create reports
+
+### DATA CLEANING AND PREPARATIONS
+In the initial phase of data cleaning and preparations, we perform the follwoing actions;
+1. Data Loading and Inspection
+2. Handling missing variables
+3. Data cleaning and Formatting
+
+   ###  EXPLORATORY DATA ANALYSIS
+   EDA involves the exploring of the data to anser some questions about the data such as;
+   - what is the overall sales trend
+   - which product are top sellers
+   - what are the products on peak sales?
+  
+     ### DATA ANALYSIS
+     This is where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis;
+
+     ```SQL
+     SELECT * FROM TABLE1
+     WHERE CONDITION = TRUE
+     ```
